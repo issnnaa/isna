@@ -1,2 +1,2 @@
-# isna
-pemula
+f =let angkaRahasia 
+= Math.floor(Math.random() * 10) + 1;//
